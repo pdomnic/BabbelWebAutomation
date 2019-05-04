@@ -1,0 +1,1 @@
+mvn clean verify -Dbrowser_name=firefox -Durl=https://www.babbel.com/
