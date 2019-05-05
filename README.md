@@ -1,4 +1,4 @@
-# BabbelWebAutomation (Cucumber + Selenium WebDriver + TestNG with POM)
+# Cucumber + Selenium WebDriver + TestNG with POM
 This is a sample project to demonstrate what is Cucumber BDD framework and how it can be used to automate web application. TestNG is used as test framework.
 # Page Object Model
 POM Pattern technique provides a solution for working with multiple web pages and prevents unwanted code duplication and enables an uncomplicated solution for code maintenance. In general, every page in our application will be represented by a unique class of its own and the page element inspection will be implemented in every class.
