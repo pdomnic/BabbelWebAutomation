@@ -23,5 +23,6 @@ Behavior-Driven Development (BDD) is a software development process that emerged
   <project_home> : sh start.sh
   
 # View Report
+<project_home>/target/cucumber-reports/advanced-reports/cucumber-html-reports/overview-features.html
   
   
