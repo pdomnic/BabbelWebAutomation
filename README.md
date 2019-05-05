@@ -13,7 +13,7 @@ Behavior-Driven Development (BDD) is a software development process that emerged
 5. Execute Test and check the Report.
 
 # How to run this project?
-1. Clone the code into a local machine : git clone <URL>
+1. Clone the code into a local machine : git clone https://github.com/pdomnic/BabbelWebAutomation.git
 2. Compile the code in local machine. Make sure dependencies are resolved without any error : mvn clean compile
 3. Execute the test : You have to pass parameter. 1. browser_name - chrome/firefox   2. Application URL : https://www.babbel.com/
   
